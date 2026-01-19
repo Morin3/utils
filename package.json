@@ -51,7 +51,7 @@
     "@rollup/plugin-node-resolve": "^15.2.3",
     "@types/node": "^20.12.10",
     "@types/throttle-debounce": "^5.0.2",
-    "bumpp": "^9.4.1",
+    "bumpp": "^10.1.0",
     "eslint": "npm:eslint-ts-patch@8.55.0-1",
     "eslint-ts-patch": "8.55.0-1",
     "esno": "^4.7.0",
